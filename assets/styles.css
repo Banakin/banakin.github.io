@@ -69,6 +69,8 @@ body{
     border: 5px solid var(--primary-color);
     width: 24vw;
     margin: 0 2vw;
+    vertical-align: top;
+    margin-bottom: 60px;
 }
 .card-image{
     width: 100%;
@@ -112,7 +114,6 @@ body{
         display: block;
         width: 60vw;
         margin: 0 auto;
-        margin-bottom: 60px;
     }
 }
 @media only screen and (max-width: 600px) {
