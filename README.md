@@ -1,4 +1,4 @@
-# [banakin.github.io](https://banakin.github.io/)
-This is the repository for my personal website
+# [gh.brleu.com](https://gh.brleu.com/)
+Repository for the redirect at gh.brleu.com
 ***
-There's really nothing to put in this readme. You can download my site and look at it if you would like. If you use it at all just be sure to give clear credit.
+Redirects to [my github](https://github.com/Banakin).
